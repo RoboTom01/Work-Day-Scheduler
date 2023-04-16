@@ -1,4 +1,4 @@
-# Work-Day-Scheduler
+# Work Day Scheduler
 An easy to use Work Day Scheduler that saves information to the user's local storage.
 
 The planner has the current date and time displayed at the top of the page, as part of the header.
