@@ -139,7 +139,7 @@ $(function () {
         planData.attr({
             "class": "future"
         })
-    }
+    } 
 
     var saveButton = $("<i class='far fa-save fa-lg'></i>")
     var saveHourToDo = $("<button>")
